@@ -1,6 +1,6 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: "Stuff Guys Should Know"
+subtitle: Subscribe to our weekly newsletter to get new articles in your inbox every Monday.
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why Kaldi?
