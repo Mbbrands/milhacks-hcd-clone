@@ -6,7 +6,9 @@ slug: tattoo-prices-explained
 
 ---
 
-<img src="http://www.hcdmag.com/wp-content/uploads/hcdmag_tattoo_price_guide-300x200.jpg" alt="hcdmag tattoo price guide" />If you've been searching for tattoo prices online, you'll realize it's hard to get a straight answer. <strong>Today I'll try to answer the question everyone wants to know: how much does a tattoo actually cost?</strong>
+<img src="http://www.hcdmag.com/wp-content/uploads/hcdmag_tattoo_price_guide.jpg" alt="hcdmag tattoo price guide" />
+
+If you've been searching for tattoo prices online, you'll realize it's hard to get a straight answer. <strong>Today I'll try to answer the question everyone wants to know: how much does a tattoo actually cost?</strong>
 
 Getting a tattoo is an exciting and emotional journey. You've probably been dreaming about your tattoo design for months or even years, and now you are ready to pull the trigger. 
 
@@ -46,7 +48,7 @@ After comparing prices with friends and talking to numerous shops, I've tried to
 
 That means a 6 inch by 6 inch tattoo (36 square inches) would cost $360.
 
-A larger, 9x9 inch <a href="http://www.hcdmag.com/27-amazing-tribal-tattoo-designs/" target="_blank">tribal tattoo</a> (81 square inches) might cost around $810.
+A larger, 9x9 inch <a href="https://www.hcdmag.com/27-amazing-tribal-tattoo-designs/" target="_blank">tribal tattoo</a> (81 square inches) might cost around $810.
 
 <strong>Don't forget that even if you get a small tattoo you'll still have to pay the minimum price as required by the shop - usually starting at $80.</strong>
 
@@ -54,7 +56,9 @@ Please note that this is only an estimate. You will need to set up a consultatio
 
 <h2>Factors That Increase Tattoo Prices</h2>
 
-<img src="http://www.hcdmag.com/wp-content/uploads/tattoo_artist-300x214.jpg" alt="tattoo artist" width="300" height="214" class="alignright size-medium wp-image-2658" />So we know that the minimum cost to get a tattoo will be around $100. And we also know that it will cost about $150 per hour for anything that takes longer than two hours.
+<img src="https://www.hcdmag.com/wp-content/uploads/tattoo_artist.jpg" alt="tattoo artist" />
+
+So we know that the minimum cost to get a tattoo will be around $100. And we also know that it will cost about $150 per hour for anything that takes longer than two hours.
 
 <strong>But, what makes certain tattoos cost more than others?</strong>
 
