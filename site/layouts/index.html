@@ -2,11 +2,46 @@
 
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle) }}
 
-{{ partial "short-text" .Params.blurb}}
-
-{{ partial "2-up" .Params }}
-
-{{ partial "text-and-image" (dict "heading" .Params.values.heading "text" .Params.values.text "buttonText" "Read more" "buttonLink" "/values") }}
+<div class="bg-grey-1 pv4 cms">
+	<div class="ph3 mw7 center">
+		<div class="w-100 flex-ns mhn1-ns flex-wrap mb3">
+      
+<section class="cf w-100 pa2-ns">
+  <article class="fl w-50 w-33-l pa2">
+	  <a href="http://www.hcdmag.com/army-promotion-points/" class="ph2 ph0-ns pb3 link db">
+    <div class="aspect-ratio aspect-ratio--1x1">
+      <img style="background-image:url(http://www.hcdmag.com/wp-content/uploads/army_promotion_ceremony.jpg);"
+      class="db bg-center cover aspect-ratio--object" />
+    </div>
+    
+      <h3 class="f5 f4-ns mb0 black">Army Promotion Points (Updated)</h3>
+    </a>
+  </article>
+  <article class="fl w-50 w-33-l pa2">
+	   <a href="http://www.hcdmag.com/best-fuel-injector-cleaner/" class="ph2 ph0-ns pb3 link db">
+    <div class="aspect-ratio aspect-ratio--1x1">
+      <img style="background-image:url(http://www.hcdmag.com/wp-content/uploads/best_fuel_injector_cleaner.jpg);"
+      class="db bg-center cover aspect-ratio--object" />
+    </div>
+   
+      <h3 class="f5 f4-ns mb0 black">The Best Fuel Injector Cleaners (2019)</h3>
+    </a>
+  </article>
+  <article class="fl w-50 w-33-l pa2">
+	   <a href="http://www.hcdmag.com/5w20-vs-5w30/" class="ph2 ph0-ns pb3 link db">
+    <div class="aspect-ratio aspect-ratio--1x1">
+      <img style="background-image:url(http://www.hcdmag.com/wp-content/uploads/best_fuel_injector_cleaner.jpg);"
+      class="db bg-center cover aspect-ratio--object" />
+    </div>
+   
+      <h3 class="f5 f4-ns mb0 black">5w20 vs 5w30 Motor Oil</h3>
+    </a>
+  </article>
+ 
+</section>
+      </div>
+</div>
+</div>
 
 {{ partial "blog" . }}
 
