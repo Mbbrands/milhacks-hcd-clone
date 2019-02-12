@@ -12,7 +12,8 @@ The kit car can be built in under 2 months and for less than $40,000. Before you
 
 While there are many critics of the Vaydor G35 all over the internet, we wanted to share a few of the reasons we think it's awesome. 
 
-[caption id="attachment_6535" align="aligncenter" width="800"]<img src="http://www.hcdmag.com/wp-content/uploads/vaydor_g35_body_kit.jpg" alt="vaydor g35 body kit" width="800" height="450" class="size-full wp-image-6535" /> Photo via <a href="https://www.flickr.com/photos/119886413@N05/24857338253/" target="_blank">Flickr</a>[/caption]
+<img src="http://www.hcdmag.com/wp-content/uploads/vaydor_g35_body_kit.jpg" alt="vaydor g35 body kit" width="800" height="450" class="size-full wp-image-6535" /> 
+Photo via <a href="https://www.flickr.com/photos/119886413@N05/24857338253/" target="_blank">Flickr</a>
 
 <h2>1. It was Designed by an Average Guy with No Money</h2>
 
@@ -24,7 +25,8 @@ It wasn't designed by a company looking to make huge profits (though he eventual
 
 <h2>2. It's an Infiniti G35 Underneath</h2>
 
-[caption id="attachment_6536" align="aligncenter" width="800"]<img src="http://www.hcdmag.com/wp-content/uploads/infiniti_g35_coupe.jpg" alt="infiniti g35 coupe" width="800" height="600" class="size-full wp-image-6536" /> Photo via <a href="https://www.flickr.com/photos/40322928@N05/7986837356/" target="_blank">Flickr</a>[/caption]
+<img src="http://www.hcdmag.com/wp-content/uploads/infiniti_g35_coupe.jpg" alt="infiniti g35 coupe" width="800" height="600" class="size-full wp-image-6536" /> 
+Photo via <a href="https://www.flickr.com/photos/40322928@N05/7986837356/" target="_blank">Flickr</a>
 
 One of the reasons the Vaydor G35 is so affordable is because it uses an Infiniti G35 as the donor car. The kit is only compatible with 2003-2007 Infiniti G35 coupes. The designer,  Matt McEntegart, likes to describe the Vaydor G35 body kit as a "re-body fiberglass kit." 
 
@@ -86,7 +88,8 @@ You could also contact a local fabrication shop near you to complete the work. H
 
 <h2>Bonus: It Was in the Suicide Squad Film</h2>
 
-[caption id="attachment_6537" align="aligncenter" width="800"]<img src="http://www.hcdmag.com/wp-content/uploads/suicide_squad_vaydor_car.jpg" alt="suicide squad jokers car" width="800" height="531" class="size-full wp-image-6537" /> Photo via <a href="https://www.flickr.com/photos/b7378q8/18590159196/in/photostream/" target="_blank">Flickr</a>[/caption]
+<img src="http://www.hcdmag.com/wp-content/uploads/suicide_squad_vaydor_car.jpg" alt="suicide squad jokers car" width="800" height="531" class="size-full wp-image-6537" /> 
+Photo via <a href="https://www.flickr.com/photos/b7378q8/18590159196/in/photostream/" target="_blank">Flickr</a>
 
 I can't forget that one of the reasons the Vaydor G35 became so popular this year was because of its recent appearance in the movie Suicide Squad.
 
@@ -105,5 +108,3 @@ The Vaydor G35 body kit will transform an Infiniti G35 into a sleek supercar wit
 Even though the Vaydor is inexpensive to build, there are still very few on the streets due to limited production. In fact, as little as 20 per year are being produced by Vaydor Exotics.
 
 <strong>So what are you waiting for? Time to start looking for your donor car on ebay:</strong>
-
-<div style="margin:20px 0;">[easybay display="block" number="5" output_type="item-search-results" site="100" category="179882" new_window="yes" nofollow="yes"][/easybay]</div>
