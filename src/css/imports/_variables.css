@@ -11,7 +11,11 @@
 	--black: rgba(43, 37, 35, 1);
 
 	/* Typography */
-	--font-family: Nunito Sans, -apple-system, BlinkMacSystemFont, 'avenir next', avenir, helvetica, 'helvetica neue', ubuntu, roboto, noto, 'segoe ui', arial, sans-serif;
+	/* Typography */
+	--font-family: Lucida Bright,Georgia,serif;
+	--font-headings: Helvetica Neue,Helvetica,Arial,sans-serif;
+	--font-serif: Lucida Bright,Georgia,serif;
+	--font-sans-serif: Helvetica Neue,Helvetica,Arial,sans-serif;
 	--line-height: 1.5;
 
 	--font-size: 18px;
