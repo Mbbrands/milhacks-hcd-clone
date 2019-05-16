@@ -1,10 +1,9 @@
 ---
-draft: true
+
 title: "8.1L Vortec 8100 Engine Specs"
 date: 2018-12-04T15:04:10.000Z
 description: "Looking for 8.1 Vortec engine specs? See what we discovered about the last GM big block gas engine ever made. Is the Vortec 8100 the best for towing?"
 slug: 81l-vortec-engine
-image: 
 
 ---
 
