@@ -1,10 +1,9 @@
 ---
 title: "The Best Rifle Scope of 2019"
 description: "We reviewed the best rifle scopes of 2019 and you might be surprised what we discovered about how ot improve your accuracy without spending a fortune."
-date: 2019-01-01T00:00:10.000Z
+date: 2019-11-01T00:00:10.000Z
 slug: best-rifle-scope
 keyphrase: "Best Rifle Scope"
-draft: true
 
 ---
 
