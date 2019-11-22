@@ -3,6 +3,11 @@ languageCode = "en-us"
 title = "HCDMAG"
 [permalinks]
   blog = "/:slug/"
+  pages = "/:slug/"
+  automotive = "/:slug/"
+  engines = "/:slug/"
+  transmissions = "/:slug/"
+  outdoors = "/:slug/"
 [sitemap]
   changefreq = "weekly"
   filename = "sitemap.xml"
