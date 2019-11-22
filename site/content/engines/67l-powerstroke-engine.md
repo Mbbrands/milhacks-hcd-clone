@@ -2,7 +2,7 @@
 
 title: "6.7L Power Stroke Engine Specs"
 date: 2019-11-01T00:00:10.000Z
-description: "The complete Ford 6.7L Powerstroke Engine Specs and Performance Parts guide is here. See what we discovered about this 400hp turbocharged "scorpion"."
+description: "The complete Ford 6.7L Powerstroke Engine Specs and Performance Parts guide is here. See what we discovered about this 400hp turbocharged 'scorpion'."
 slug: 67l-powerstroke-engine
 
 ---
