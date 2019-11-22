@@ -1,6 +1,35 @@
 {{ define "main" }}
 
-{{ partial "jumbotron" (dict "imageUrl" "/img/7.jpg" "title" "This is where the heading goes" "subtitle" "This is where the subtitle goes") }}
-{{ .Content }}
+ <div class="mw8 center ph2-ns">
+  <div class="cf mw7 center ph2-ns">
+  <div class="fl mw6 ph2 pv4 cms">
+    
+    <h1 class="f3 f2-ns lh-title b mb3">{{.Title}}</h1>
+  
+    {{ partial "tag-line" . }}
+    
+    <div class="mw6">
+      
+      {{ .Content }}
+      
+    </div>
+    
+    {{ partial "bio" . }}
+    
+    {{ partial "ad-footer" . }}
+   
+   {{ partial "next-article" . }}
+    
+    {{ partial "related" . }}
+    
+  </div>
+    
+<div class="fl mh2 pv4" style="width:300px;">
+  {{ partial "sidebar" . }}
+</div>
+  
+</div>
+  
+</div>
 
 {{ end }}
