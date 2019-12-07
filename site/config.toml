@@ -1,12 +1,12 @@
 languageCode = "en-us"
-title = "HCDMAG"
+title = "Military Hacks"
 [permalinks]
   blog = "/:slug/"
   pages = "/:slug/"
-  automotive = "/:slug/"
-  engines = "/:slug/"
-  transmissions = "/:slug/"
-  outdoors = "/:slug/"
+  army = "/:slug/"
+  navy = "/:slug/"
+  air-force = "/:slug/"
+  marines = "/:slug/"
 [sitemap]
   changefreq = "weekly"
   filename = "sitemap.xml"
