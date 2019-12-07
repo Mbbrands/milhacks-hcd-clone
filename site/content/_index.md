@@ -1,5 +1,5 @@
 ---
-title: "Stuff Guys Should Know"
+title: "Military Benefits, Pay Charts, and More"
 subtitle: Subscribe to our weekly newsletter to get new articles in your inbox every Monday.
 image: /img/home-jumbotron.jpg
 blurb:
